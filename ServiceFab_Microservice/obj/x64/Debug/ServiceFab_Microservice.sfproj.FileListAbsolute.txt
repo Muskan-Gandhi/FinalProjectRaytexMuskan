@@ -1,0 +1,1 @@
+E:\ASP.Net\Final-Project\ServiceFab_Microservice\ServiceFab_Microservice\obj\x64\Debug\ServiceFab_Microservice.sfproj.CoreCompileInputs.cache

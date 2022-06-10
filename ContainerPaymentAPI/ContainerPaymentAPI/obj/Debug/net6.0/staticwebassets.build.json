@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "us2u5K+Q/l3sNtE2PZGzCmRBMl0joiKIrStsM7yUajk=",
+  "Source": "ContainerPaymentAPI",
+  "BasePath": "_content/ContainerPaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Raytex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Raytex\\.nuget\\packages"
+    ]
+  }
+}
